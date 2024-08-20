@@ -1,5 +1,5 @@
 name=input("What is your name:\n")
 age=int(input("What is your age: \n"))
 location=input("Where do you come from: \n")
-print("My name is",name, ",i am", age, "years of age", "and i come from", location)
+print(f"your name is {name}, your age is {age} and you live in {location}")
 
